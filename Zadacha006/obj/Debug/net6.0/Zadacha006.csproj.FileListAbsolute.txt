@@ -1,0 +1,15 @@
+D:\Дима\GB\3. C#\Семинары\Homework_1\Zadacha006\obj\Debug\net6.0\Zadacha006.csproj.AssemblyReference.cache
+D:\Дима\GB\3. C#\Семинары\Homework_1\Zadacha006\obj\Debug\net6.0\Zadacha006.GeneratedMSBuildEditorConfig.editorconfig
+D:\Дима\GB\3. C#\Семинары\Homework_1\Zadacha006\obj\Debug\net6.0\Zadacha006.AssemblyInfoInputs.cache
+D:\Дима\GB\3. C#\Семинары\Homework_1\Zadacha006\obj\Debug\net6.0\Zadacha006.AssemblyInfo.cs
+D:\Дима\GB\3. C#\Семинары\Homework_1\Zadacha006\obj\Debug\net6.0\Zadacha006.csproj.CoreCompileInputs.cache
+D:\Дима\GB\3. C#\Семинары\Homework_1\Zadacha006\bin\Debug\net6.0\Zadacha006.exe
+D:\Дима\GB\3. C#\Семинары\Homework_1\Zadacha006\bin\Debug\net6.0\Zadacha006.deps.json
+D:\Дима\GB\3. C#\Семинары\Homework_1\Zadacha006\bin\Debug\net6.0\Zadacha006.runtimeconfig.json
+D:\Дима\GB\3. C#\Семинары\Homework_1\Zadacha006\bin\Debug\net6.0\Zadacha006.dll
+D:\Дима\GB\3. C#\Семинары\Homework_1\Zadacha006\bin\Debug\net6.0\Zadacha006.pdb
+D:\Дима\GB\3. C#\Семинары\Homework_1\Zadacha006\obj\Debug\net6.0\Zadacha006.dll
+D:\Дима\GB\3. C#\Семинары\Homework_1\Zadacha006\obj\Debug\net6.0\refint\Zadacha006.dll
+D:\Дима\GB\3. C#\Семинары\Homework_1\Zadacha006\obj\Debug\net6.0\Zadacha006.pdb
+D:\Дима\GB\3. C#\Семинары\Homework_1\Zadacha006\obj\Debug\net6.0\Zadacha006.genruntimeconfig.cache
+D:\Дима\GB\3. C#\Семинары\Homework_1\Zadacha006\obj\Debug\net6.0\ref\Zadacha006.dll
